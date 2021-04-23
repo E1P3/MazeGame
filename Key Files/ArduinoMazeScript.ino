@@ -1,3 +1,6 @@
+// Project relevant to this script is available at:
+// https://github.com/E1P3/MazeGame
+
 #include <Arduino_LSM6DS3.h>
 
 #define IR_LEFT 2

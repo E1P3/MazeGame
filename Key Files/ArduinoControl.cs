@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Project relevant to this script is available at:
+//https://github.com/E1P3/MazeGame
+
+using System;
 using System.IO.Ports;
 using System.Threading;
 using System.Collections;
